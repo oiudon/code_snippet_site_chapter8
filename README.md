@@ -15,7 +15,7 @@
 
 ## Gitクローン
 1. cd /Users/mac/Documents/Django　… 作業ディレクトリを移動
-2. git clone git@github.com:oiudon/code_snippet_site.git　… クローン
+2. git clone git@github.com:oiudon/code_snippet_site_chapter8.git　… クローン
 
 ## 仮想環境の作成
 1. cd code_snippet_site　… 作業ディレクトリに移動
@@ -25,7 +25,7 @@
 5. pip install django==3.2　… Django 3.2をインストール
 
 ## Djangoコマンド
-* source /Users/mac/Documents/Django/code_snippet_site/venv/bin/activate　…　仮想環境をアクティベートする
+* source /Users/mac/Documents/Django/code_snippet_site_chapter8/venv/bin/activate　…　仮想環境をアクティベートする
 * deactivate　…　開発環境をディアクティベートする
 * python manage.py runserver　…　開発サーバー立ち上げ
 * manage.py makemigrations　…　マイグレーションファイルを作成
