@@ -48,3 +48,4 @@
 * pip install django-extensions …　manage.py shell_plusコマンドが使用可能
 * pip install django-bootstrap5　…　Bootstrap5のライブラリ
 * pip install django-pygments-renderer　…　構文ハイライトを実装するライブラリ
+* pip install djangorestframework　…　Django REST Frameworkのインストール
